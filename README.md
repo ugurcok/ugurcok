@@ -1,9 +1,14 @@
-### Hi there 👋
+### Hi there 👋, my name is ugur
+#### I'm a front-end development student
+![I'm a front-end development student](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-I'am ugur from Turkey, and I learn content on design and development.I'd like to show you my projects make by 
-(https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-, https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white, https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white and https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E. 
-I'm working with https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white
-You can reach to me on linkedln.
+I'm ugur from Turkey, and I learn content on design and development. I'd like to show you my projects 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mustafacagri&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+Skills: HTML/CSS/BOOTSTRAP/JAVASCRİPT 
+
+- 📫 How to reach me: cokugur2@gmail.com 
+
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/ugurcok//)  
+

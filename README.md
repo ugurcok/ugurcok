@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is ugur
 #### I'm a front-end development student
-![I'm a front-end development student](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![I'm a front-end development student](https://www.instagram.com/p/CF4_Wa8JglJPkTjOILnbVI4fvrjkznH6y_-9TQ0/)
 
 I'm ugur from Turkey, and I learn content on design and development. I'd like to show you my projects 
 

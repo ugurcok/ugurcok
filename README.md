@@ -1,5 +1,7 @@
 ### Hi there 👋, my name is ugur
 #### I'm a front-end development student
+![I'm a front-end development student](https://i.pinimg.com/564x/e4/50/86/e450866ac33a6eb6bffe71bb77c39075.jpg)
+
 I'm ugur from Turkey, and I learn content on design and development. I'd like to show you my projects
 
 Skills: HTML/CSS/BOOTSTRAP/JAVASCRİPT
